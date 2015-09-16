@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛開解梵志阿經
+#+DATE: 2015-08-30 19:28:14.076436
+#+PROPERTY: JUAN 0
